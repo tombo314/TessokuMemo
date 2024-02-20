@@ -29,4 +29,5 @@ B28: AC DP
 B29: AC 繰り返し二乗法
 B30: AC nCr
 B31: AC 包除原理
-B32:
+B32: AC ゲームDP
+B33:
