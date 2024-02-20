@@ -33,4 +33,6 @@ B32: AC ゲームDP
 B33: AC Grundy数
 B34: AC Grundy数 周期性
 B35: 欠番
-B36:
+B36: AC 偶奇
+B37: 難しそう 飛ばす Sum of Digits
+B38:
