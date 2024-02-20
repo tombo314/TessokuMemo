@@ -32,4 +32,5 @@ B31: AC 包除原理
 B32: AC ゲームDP
 B33: AC Grundy数
 B34: AC Grundy数 周期性
-B35:
+B35: 欠番
+B36:
