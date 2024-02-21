@@ -35,4 +35,6 @@ B34: AC Grundy数 周期性
 B35: 欠番
 B36: AC 偶奇
 B37: 難しそう 飛ばす Sum of Digits
-B38:
+B38: AC 前と後ろから見る
+B39: AC priority_queue
+B40:
