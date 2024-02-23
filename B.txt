@@ -38,4 +38,5 @@ B37: 難しそう 飛ばす Sum of Digits
 B38: AC 前と後ろから見る
 B39: AC priority_queue
 B40: AC mod+主客転倒、mod+二分探索
-B41:
+B41: AC ユークリッドの互除法
+B42:
