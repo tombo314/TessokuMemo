@@ -39,4 +39,19 @@ B38: AC 前と後ろから見る
 B39: AC priority_queue
 B40: AC mod+主客転倒、mod+二分探索
 B41: AC ユークリッドの互除法
-B42:
+B42: AC 4つに場合分けして貪欲
+B43: AC 種類でまとめて計算する
+B44: AC 変わった先を持っておく
+B45: AC 総和が一定
+B46: 欠番
+B47: 欠番
+B48: 欠番
+B49: 欠番
+B50: 欠番
+B51: AC stack
+B52: AC queue
+B53: 欠番
+B54: AC map
+B55: AC set lower_bound
+B56: AC ローリングハッシュ
+B57:
