@@ -54,4 +54,5 @@ B53: 欠番
 B54: AC map
 B55: AC set lower_bound
 B56: AC ローリングハッシュ
-B57:
+B57: AC ダブリング
+B58:
