@@ -20,7 +20,7 @@ A19: AC ナップサックDP
 A20: AC DP（LCS）
 A21: AC 区間DP（メモ化再帰）
 A22: AC DP
-A23: AC DP（ビットで状態を持つ）
+A23: AC bitDP
 A24: AC DP（LIS）
 A25: AC DP（グリッド上の経路数）
 A26: AC 素数判定
